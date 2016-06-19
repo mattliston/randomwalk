@@ -1,4 +1,4 @@
-This repository contains the code used to generate the results described in the paper [Applying Deep Neural Networks to the Random Walk Theory](https://github.com/mattliston/randomwalk/blob/master/paper.pdf) by Matt Liston
+This repository contains the code used to generate the results described in the paper [Application of Deep Learning to the Random Walk Theory](https://github.com/mattliston/randomwalk/blob/master/paper.pdf) by Matt Liston
 
 1.   install Unbuntu 14.04 on a machine with a GPU
 2.   install cuda version 7.5, run "sudo nvidia-modprobe -c 0 -u" to generate /dev/nvidia-uvm
